@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Detector Client</string>
+    <string name="password">Password</string>
+    <string name="no_of_remaining_attempts">No of remaining attempts:</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">UserName</string>
+    <string name="R.strings.username">UserName</string>
+    <string name="todo">TODO</string>
+    <string name="e_mail">E-mail</string>
+
+
+    <!-- -MainActivity Strings-->
+    <string name="date">Receiving Date: </string>
+    <string name="notification_msg">New Motion Detected!</string>
+</resources>

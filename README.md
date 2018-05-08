@@ -3,3 +3,4 @@ A Distributed system that detects motion and pushes notifications for a remote A
 <b>Coders:<b></br>
 - Bahaa Ibrahim</br>
 - Kariman Karam</br>
+- Aliya Hammad</br>

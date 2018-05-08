@@ -1,2 +1,2 @@
 # NowYouSeeMe
-Distributed system detecting motion and notify remote Android App via Network
+A Distributed system that detects motion and pushes notifications for a remote Android App via Network

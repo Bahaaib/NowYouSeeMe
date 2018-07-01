@@ -82,12 +82,12 @@ public class Client {
 
     private static void fillMap() {
         p_Users.put("bahaasco@gmail.com", "123456");
-        p_Users.put("aliyahammad95@gmail.com", "246810");
-        p_Users.put("ahmedhamdy@yahoo.com", "159753");
-        p_Users.put("mohamedkhalaf@hotmail.com", "357951");
-        p_Users.put("michaelsamir@gmail.com", "741369852");
-        p_Users.put("ebtisamosama@yahoo.com", "963147852");
-        p_Users.put("karimankaram@gmail.com", "123987456");
+        p_Users.put("aliya@gmail.com", "246810");
+        p_Users.put("ahmed@yahoo.com", "159753");
+        p_Users.put("mohamed@hotmail.com", "357951");
+        p_Users.put("michael@gmail.com", "741369852");
+        p_Users.put("ebtisam@yahoo.com", "963147852");
+        p_Users.put("kariman@gmail.com", "123987456");
     }
 
     private static void splitMSG(String msg) {
